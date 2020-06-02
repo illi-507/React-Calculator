@@ -1,0 +1,28 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background-color:#ffc048;
+  flex-direction: column;
+
+
+
+}
+
+.calc-wrapper {
+  width: 400px;
+  /*height:350px;*/
+  height: 500px;
+ 
+ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+ 
+}
+
+.row {
+  background-color:red;
+  display: flex;
+  width: 100%;
+
+}
